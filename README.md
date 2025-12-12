@@ -1,3 +1,3 @@
 If you plan on building it yourself, install npm on the root directory
 
-"WebPage crude files" folder is NOT required, that folder holds the web page, so you have the choice of downloading it and hosting the web page locally
+Also, if you'd prefer to run the web page locally, instead of using the app. Download the "BlackLotus" folder, and host it by using for example python (python -m http.server <port>, then go to your browser and put localhost:<port>) on the folder
